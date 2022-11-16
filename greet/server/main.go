@@ -6,8 +6,7 @@ import (
 
 	"google.golang.org/grpc"
 
-	pb "github.com/rodrigueslg/repo/greet/proto"
-	//pb "golang-grpc-udemy/greet/proto"
+	pb "github.com/rodrigueslg/golang-grpc-udemy/greet/proto"
 )
 
 type Server struct {
